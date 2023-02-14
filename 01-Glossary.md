@@ -1,6 +1,6 @@
 # Glossary
 
-###Summary
+### Summary
 
  - [Entity / Report Type](#entity--report-type)
  - [Interval](#interval)
